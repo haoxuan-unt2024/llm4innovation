@@ -197,6 +197,62 @@ Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw 
 
 #### Benchmarks
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+</head>
+<body>
+<div class="csl-bib-body" style="line-height: 2; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Du, J. <i>et al.</i> LLMs Assist NLP Researchers: Critique Paper (Meta-) Reviewing. in <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</i> 5081–5099 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=LLMs%20Assist%20NLP%20Researchers%3A%20Critique%20Paper%20(Meta-)%20Reviewing&amp;rft.btitle=Proceedings%20of%20the%202024%20Conference%20on%20Empirical%20Methods%20in%20Natural%20Language%20Processing&amp;rft.aufirst=Jiangshu&amp;rft.aulast=Du&amp;rft.au=Jiangshu%20Du&amp;rft.au=Yibo%20Wang&amp;rft.au=Wenting%20Zhao&amp;rft.au=Zhongfen%20Deng&amp;rft.au=Shuaiqi%20Liu&amp;rft.au=Renze%20Lou&amp;rft.au=Henry%20Zou&amp;rft.au=Pranav%20Narayanan%20Venkit&amp;rft.au=Nan%20Zhang&amp;rft.au=Mukund%20Srinath&amp;rft.au=undefined&amp;rft.date=2024&amp;rft.pages=5081%E2%80%935099&amp;rft.spage=5081&amp;rft.epage=5099"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">2.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Dycke, N., Kuznetsov, I. &amp; Gurevych, I. NLPeer: A Unified Resource for the Computational Study of Peer Review. in <i>Annual Meeting of the Association for Computational Linguistics</i> (2022).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=NLPeer%3A%20A%20Unified%20Resource%20for%20the%20Computational%20Study%20of%20Peer%20Review&amp;rft.btitle=Annual%20Meeting%20of%20the%20Association%20for%20Computational%20Linguistics&amp;rft.aufirst=Nils&amp;rft.aulast=Dycke&amp;rft.au=Nils%20Dycke&amp;rft.au=Ilia%20Kuznetsov&amp;rft.au=Iryna%20Gurevych&amp;rft.date=2022"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">3.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Gao, Z., Brantley, K. &amp; Joachims, T. Reviewer2: Optimizing review generation through prompt generation. <i>arXiv preprint arXiv:2402.10886</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reviewer2%3A%20Optimizing%20review%20generation%20through%20prompt%20generation&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2402.10886&amp;rft.aufirst=Zhaolin&amp;rft.aulast=Gao&amp;rft.au=Zhaolin%20Gao&amp;rft.au=Kiant%C3%A9%20Brantley&amp;rft.au=Thorsten%20Joachims&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">4.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Li, J., Yin, Y., Fortunato, S. &amp; Wang, D. A dataset of publication records for Nobel laureates. <i>Scientific data</i> <b>6</b>, 33 (2019).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41597-019-0033-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20dataset%20of%20publication%20records%20for%20Nobel%20laureates&amp;rft.jtitle=Scientific%20data&amp;rft.volume=6&amp;rft.issue=1&amp;rft.aufirst=Jichao&amp;rft.aulast=Li&amp;rft.au=Jichao%20Li&amp;rft.au=Yian%20Yin&amp;rft.au=Santo%20Fortunato&amp;rft.au=Dashun%20Wang&amp;rft.date=2019&amp;rft.pages=33"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">5.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Li, M., Hovy, E. H. &amp; Lau, J. H. Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation. in <i>Conference on Empirical Methods in Natural Language Processing</i> (2023). doi:<a href="https://doi.org/10.18653/v1%2F2023.findings-emnlp.472">https://doi.org/10.18653/v1%2F2023.findings-emnlp.472</a>.</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2Fhttps%3A%2F%2Fdoi.org%2F10.18653%2Fv1%252F2023.findings-emnlp.472&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Summarizing%20Multiple%20Documents%20with%20Conversational%20Structure%20for%20Meta-Review%20Generation&amp;rft.btitle=Conference%20on%20Empirical%20Methods%20in%20Natural%20Language%20Processing&amp;rft.aufirst=Miao&amp;rft.aulast=Li&amp;rft.au=Miao%20Li&amp;rft.au=Eduard%20H.%20Hovy&amp;rft.au=Jey%20Han%20Lau&amp;rft.date=2023"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">6.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Lin, J., Song, J., Zhou, Z., Chen, Y. &amp; Shi, X. MOPRD: A multidisciplinary open peer review dataset. <i>Neural Computing and Applications</i> <b>35</b>, 24191–24206 (2022).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2Fhttps%3A%2F%2Fdoi.org%2F10.1007%2Fs00521-023-08891-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=MOPRD%3A%20A%20multidisciplinary%20open%20peer%20review%20dataset&amp;rft.jtitle=Neural%20Computing%20and%20Applications&amp;rft.volume=35&amp;rft.aufirst=Jialiang&amp;rft.aulast=Lin&amp;rft.au=Jialiang%20Lin&amp;rft.au=Jiaxin%20Song&amp;rft.au=Zhangping%20Zhou&amp;rft.au=Yidong%20Chen&amp;rft.au=X.%20Shi&amp;rft.date=2022&amp;rft.pages=24191-24206&amp;rft.spage=24191&amp;rft.epage=24206"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">7.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Lin, Z., Yin, Y., Liu, L. &amp; Wang, D. SciSciNet: A large-scale open data lake for the science of science research. <i>Scientific Data</i> <b>10</b>, 315 (2023).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41597-023-02198-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=SciSciNet%3A%20A%20large-scale%20open%20data%20lake%20for%20the%20science%20of%20science%20research&amp;rft.jtitle=Scientific%20Data&amp;rft.volume=10&amp;rft.issue=1&amp;rft.aufirst=Zihang&amp;rft.aulast=Lin&amp;rft.au=Zihang%20Lin&amp;rft.au=Yian%20Yin&amp;rft.au=Lu%20Liu&amp;rft.au=Dashun%20Wang&amp;rft.date=2023&amp;rft.pages=315"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">8.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Mugabushaka, A.-M., Sadat, J. &amp; Faria, J. C. D. In Search of Outstanding Research Advances: Prototyping the creation of an open dataset of" editorial highlights". <i>arXiv preprint arXiv:2011.07910</i> (2020).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=In%20Search%20of%20Outstanding%20Research%20Advances%3A%20Prototyping%20the%20creation%20of%20an%20open%20dataset%20of%22%20editorial%20highlights%22&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2011.07910&amp;rft.aufirst=Alexis-Michel&amp;rft.aulast=Mugabushaka&amp;rft.au=Alexis-Michel%20Mugabushaka&amp;rft.au=Jasmin%20Sadat&amp;rft.au=Jorge%20Costa%20Dantas%20Faria&amp;rft.date=2020"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">9.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Xu, J. <i>et al.</i> PubMed knowledge graph 2.0: Connecting papers, patents, and clinical trials in biomedical science. <i>Scientific Data</i> <b>12</b>, 1–20 (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41597-025-05343-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=PubMed%20knowledge%20graph%202.0%3A%20Connecting%20papers%2C%20patents%2C%20and%20clinical%20trials%20in%20biomedical%20science&amp;rft.jtitle=Scientific%20Data&amp;rft.volume=12&amp;rft.issue=1&amp;rft.aufirst=Jian&amp;rft.aulast=Xu&amp;rft.au=Jian%20Xu&amp;rft.au=Chao%20Yu&amp;rft.au=Jiawei%20Xu&amp;rft.au=Vetle%20I%20Torvik&amp;rft.au=Jaewoo%20Kang&amp;rft.au=Mujeen%20Sung&amp;rft.au=Min%20Song&amp;rft.au=Yi%20Bu&amp;rft.au=Ying%20Ding&amp;rft.date=2025&amp;rft.pages=1%E2%80%9320&amp;rft.spage=1&amp;rft.epage=20"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">10.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Yuan, W., Liu, P. &amp; Neubig, G. Can we automate scientific reviewing? <i>Journal of Artificial Intelligence Research</i> <b>75</b>, 171–212 (2022).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1613%2Fjair.1.12862&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Can%20we%20automate%20scientific%20reviewing%3F&amp;rft.jtitle=Journal%20of%20Artificial%20Intelligence%20Research&amp;rft.volume=75&amp;rft.aufirst=Weizhe&amp;rft.aulast=Yuan&amp;rft.au=Weizhe%20Yuan&amp;rft.au=Pengfei%20Liu&amp;rft.au=Graham%20Neubig&amp;rft.date=2022&amp;rft.pages=171%E2%80%93212&amp;rft.spage=171&amp;rft.epage=212"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">11.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Zhou, R., Chen, L. &amp; Yu, K. Is LLM a reliable reviewer? A comprehensive evaluation of LLM on automatic paper reviewing tasks. in <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i> 9340–9351 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Is%20LLM%20a%20reliable%20reviewer%3F%20A%20comprehensive%20evaluation%20of%20LLM%20on%20automatic%20paper%20reviewing%20tasks&amp;rft.btitle=Proceedings%20of%20the%202024%20Joint%20International%20Conference%20on%20Computational%20Linguistics%2C%20Language%20Resources%20and%20Evaluation%20(LREC-COLING%202024)&amp;rft.aufirst=Ruiyang&amp;rft.aulast=Zhou&amp;rft.au=Ruiyang%20Zhou&amp;rft.au=Lu%20Chen&amp;rft.au=Kai%20Yu&amp;rft.date=2024&amp;rft.pages=9340%E2%80%939351&amp;rft.spage=9340&amp;rft.epage=9351"></span>
+</div></body>
+</html>
+
+
 #### Algorithms
 
 ### Experimental Assistant
