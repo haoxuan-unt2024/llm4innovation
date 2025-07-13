@@ -5,3 +5,15 @@ Scientific innovation is undergoing a paradigm shift driven by the rapid advance
 <img width="823" height="362" alt="Screenshot 2025-07-13 at 2 41 32 PM" src="https://github.com/user-attachments/assets/9f889e1f-b076-47be-8c9a-e814a5177249" />
 
 Figure 3. The pyramidal framework of large language models' roles in scientific innovation: evaluators, collaborators, scientists.
+
+## Contents
+
+*   [Level 1: LLMs as Evaluators](#level-1)
+    *   [Scientific Knowledge Synthesis](#sks)
+    *   [Scientific Literature Quality Assessment](#slqa)
+*   [Level 2: LLMs as Collaborators](#level-2)
+    *   [Hypothesis Generation](#hg)
+    *   [Experimental Assistant](#ea)
+*   [Level 3: LLMs as Scientists](#level-3)
+    *   [Autonomous Scientific Research](#asr)
+    *   [Autonomous Scientific Discover](#asd)
