@@ -9,14 +9,14 @@ Figure 3. The pyramidal framework of large language models' roles in scientific 
 ## Contents
 
 *   [Level 1: LLMs as Evaluators](#level-1-LLMs-as-Evaluators)
-    *   [Scientific Knowledge Synthesis](#sks)
-    *   [Scientific Literature Quality Assessment](#slqa)
-*   [Level 2: LLMs as Collaborators](#level-2)
-    *   [Hypothesis Generation](#hg)
-    *   [Experimental Assistant](#ea)
-*   [Level 3: LLMs as Scientists](#level-3)
-    *   [Autonomous Scientific Research](#asr)
-    *   [Autonomous Scientific Discover](#asd)
+    *   [Scientific Knowledge Synthesis](#Scientific-Knowledge-Synthesis)
+    *   [Scientific Literature Quality Assessment](#Scientific-Literature-Quality-Assessment)
+*   [Level 2: LLMs as Collaborators](#level-2-LLMs-as-Collaborators)
+    *   [Hypothesis Generation](#Hypothesis-Generation)
+    *   [Experimental Assistant](#Experimental-Assistant)
+*   [Level 3: LLMs as Scientists](#level-3-LLMs-as-Scientists)
+    *   [Autonomous Scientific Research](#Autonomous-Scientific-Research)
+    *   [Autonomous Scientific Discovery](#Autonomous-Scientific-Discovery)
  
 ## Level 1: LLMs as Evaluators
 
@@ -25,4 +25,43 @@ Figure 3. The pyramidal framework of large language models' roles in scientific 
 Figure 5: Closed-loop workflow of LLMs as Evaluators. Multimodal embeddings underpin SKS (blue) and SLQA (green), whose outputs mutually reinforce each other and update the shared database.
 
 ### Scientific Knowledge Synthesis
+
+#### Benchmarks
+
+#### Algorithms
+
+### Scientific Literature Quality Assessment
+
+#### Benchmarks
+
+#### Algorithms
+
+## Level 2: LLMs as Collaborators
+
+### Hypothesis Generation
+
+#### Benchmarks
+
+#### Algorithms
+
+### Experimental Assistant
+
+#### Benchmarks
+
+#### Algorithms
+
+## Level 3: LLMs as Scientists
+
+### Autonomous Scientific Research
+
+#### Benchmarks
+
+#### Algorithms
+
+### Autonomous Scientific Discovery
+
+#### Benchmarks
+
+#### Algorithms
+
 
