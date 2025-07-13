@@ -186,17 +186,6 @@ Figure 5: Closed-loop workflow of LLMs as Evaluators. Multimodal embeddings unde
 
 #### Benchmarks
 
-#### Algorithms
-
-## Level 2: LLMs as Collaborators
-
-<img width="563" height="358" alt="Screenshot 2025-07-13 at 2 57 39 PM" src="https://github.com/user-attachments/assets/c32ff8c4-d202-4468-a24e-821ca7b9adb7" />
-
-Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw knowledge into actionable hypotheses, designing and optimizing experiments, automating laboratory work, and rigorously analyzing results to drive continuous scientific innovation.
-### Hypothesis Generation
-
-#### Benchmarks
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
@@ -251,6 +240,18 @@ Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw 
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Is%20LLM%20a%20reliable%20reviewer%3F%20A%20comprehensive%20evaluation%20of%20LLM%20on%20automatic%20paper%20reviewing%20tasks&amp;rft.btitle=Proceedings%20of%20the%202024%20Joint%20International%20Conference%20on%20Computational%20Linguistics%2C%20Language%20Resources%20and%20Evaluation%20(LREC-COLING%202024)&amp;rft.aufirst=Ruiyang&amp;rft.aulast=Zhou&amp;rft.au=Ruiyang%20Zhou&amp;rft.au=Lu%20Chen&amp;rft.au=Kai%20Yu&amp;rft.date=2024&amp;rft.pages=9340%E2%80%939351&amp;rft.spage=9340&amp;rft.epage=9351"></span>
 </div></body>
 </html>
+
+#### Algorithms
+
+## Level 2: LLMs as Collaborators
+
+<img width="563" height="358" alt="Screenshot 2025-07-13 at 2 57 39 PM" src="https://github.com/user-attachments/assets/c32ff8c4-d202-4468-a24e-821ca7b9adb7" />
+
+Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw knowledge into actionable hypotheses, designing and optimizing experiments, automating laboratory work, and rigorously analyzing results to drive continuous scientific innovation.
+### Hypothesis Generation
+
+#### Benchmarks
+
 
 
 #### Algorithms
