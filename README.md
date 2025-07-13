@@ -17,3 +17,12 @@ Figure 3. The pyramidal framework of large language models' roles in scientific 
 *   [Level 3: LLMs as Scientists](#level-3)
     *   [Autonomous Scientific Research](#asr)
     *   [Autonomous Scientific Discover](#asd)
+ 
+## Level 1: LLMs as Evaluators
+
+<img width="768" height="343" alt="Screenshot 2025-07-13 at 2 49 29 PM" src="https://github.com/user-attachments/assets/75a7a0b0-fc18-4be0-8e0c-47280c5180f4" />
+
+Figure 5: Closed-loop workflow of LLMs as Evaluators. Multimodal embeddings underpin SKS (blue) and SLQA (green), whose outputs mutually reinforce each other and update the shared database.
+
+### Scientific Knowledge Synthesis
+
