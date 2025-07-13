@@ -508,6 +508,54 @@ Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw 
 
 #### Benchmarks
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+</head>
+<body>
+<div class="csl-bib-body" style="line-height: 2; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Bogin, B. <i>et al.</i> SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories. in <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</i> 12622–12645 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=SUPER%3A%20Evaluating%20Agents%20on%20Setting%20Up%20and%20Executing%20Tasks%20from%20Research%20Repositories&amp;rft.btitle=Proceedings%20of%20the%202024%20Conference%20on%20Empirical%20Methods%20in%20Natural%20Language%20Processing&amp;rft.aufirst=Ben&amp;rft.aulast=Bogin&amp;rft.au=Ben%20Bogin&amp;rft.au=Kejuan%20Yang&amp;rft.au=Shashank%20Gupta&amp;rft.au=Kyle%20Richardson&amp;rft.au=Erin%20Bransom&amp;rft.au=Peter%20Clark&amp;rft.au=Ashish%20Sabharwal&amp;rft.au=Tushar%20Khot&amp;rft.date=2024&amp;rft.pages=12622%E2%80%9312645&amp;rft.spage=12622&amp;rft.epage=12645"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">2.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Chan, J. S. <i>et al.</i> MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering. in <i>The Thirteenth International Conference on Learning Representations</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=MLE-bench%3A%20Evaluating%20Machine%20Learning%20Agents%20on%20Machine%20Learning%20Engineering&amp;rft.btitle=The%20Thirteenth%20International%20Conference%20on%20Learning%20Representations&amp;rft.aufirst=Jun%20Shern&amp;rft.aulast=Chan&amp;rft.au=Jun%20Shern%20Chan&amp;rft.au=Neil%20Chowdhury&amp;rft.au=Oliver%20Jaffe&amp;rft.au=James%20Aung&amp;rft.au=Dane%20Sherburn&amp;rft.au=Evan%20Mays&amp;rft.au=Giulio%20Starace&amp;rft.au=Kevin%20Liu&amp;rft.au=Leon%20Maksin&amp;rft.au=Tejal%20Patwardhan&amp;rft.au=Aleksander%20Madry&amp;rft.au=Lilian%20Weng&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">3.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Gandhi, K. <i>et al.</i> BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery. <i>arXiv preprint arXiv:2501.01540</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=BoxingGym%3A%20Benchmarking%20Progress%20in%20Automated%20Experimental%20Design%20and%20Model%20Discovery&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2501.01540&amp;rft.aufirst=Kanishk&amp;rft.aulast=Gandhi&amp;rft.au=Kanishk%20Gandhi&amp;rft.au=Michael%20Y%20Li&amp;rft.au=Lyle%20Goodyear&amp;rft.au=Louise%20Li&amp;rft.au=Aditi%20Bhaskar&amp;rft.au=Mohammed%20Zaman&amp;rft.au=Noah%20D%20Goodman&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">4.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Huang, Q., Vora, J., Liang, P. &amp; Leskovec, J. MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation. in <i>Forty-first International Conference on Machine Learning</i> (2023).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=MLAgentBench%3A%20Evaluating%20Language%20Agents%20on%20Machine%20Learning%20Experimentation&amp;rft.btitle=Forty-first%20International%20Conference%20on%20Machine%20Learning&amp;rft.aufirst=Qian&amp;rft.aulast=Huang&amp;rft.au=Qian%20Huang&amp;rft.au=Jian%20Vora&amp;rft.au=Percy%20Liang&amp;rft.au=Jure%20Leskovec&amp;rft.date=2023"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">5.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Kon, P. T. J. <i>et al.</i> Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents. <i>CoRR</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Curie%3A%20Toward%20Rigorous%20and%20Automated%20Scientific%20Experimentation%20with%20AI%20Agents&amp;rft.jtitle=CoRR&amp;rft.aufirst=Patrick%20Tser%20Jern&amp;rft.aulast=Kon&amp;rft.au=Patrick%20Tser%20Jern%20Kon&amp;rft.au=Jiachen%20Liu&amp;rft.au=Qiuyi%20Ding&amp;rft.au=Yiming%20Qiu&amp;rft.au=Zhenning%20Yang&amp;rft.au=Yibo%20Huang&amp;rft.au=Jayanth%20Srinivasa&amp;rft.au=Myungjin%20Lee&amp;rft.au=Mosharaf%20Chowdhury&amp;rft.au=Ang%20Chen&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">6.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Nathani, D. <i>et al.</i> MLGym: A New Framework and Benchmark for Advancing AI Research Agents. <i>CoRR</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=MLGym%3A%20A%20New%20Framework%20and%20Benchmark%20for%20Advancing%20AI%20Research%20Agents&amp;rft.jtitle=CoRR&amp;rft.aufirst=Deepak&amp;rft.aulast=Nathani&amp;rft.au=Deepak%20Nathani&amp;rft.au=Lovish%20Madaan&amp;rft.au=Nicholas%20Roberts&amp;rft.au=Nikolay%20Bashlykov&amp;rft.au=Ajay%20Menon&amp;rft.au=Vincent%20Moens&amp;rft.au=Amar%20Budhiraja&amp;rft.au=Despoina%20Magka&amp;rft.au=Vladislav%20Vorotilov&amp;rft.au=Gaurav%20Chaurasia&amp;rft.au=undefined&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">7.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">O’Donoghue, O. <i>et al.</i> BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology. in <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing</i> 2676–2694 (2023).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=BioPlanner%3A%20Automatic%20Evaluation%20of%20LLMs%20on%20Protocol%20Planning%20in%20Biology&amp;rft.btitle=Proceedings%20of%20the%202023%20Conference%20on%20Empirical%20Methods%20in%20Natural%20Language%20Processing&amp;rft.aufirst=Odhran&amp;rft.aulast=O%E2%80%99Donoghue&amp;rft.au=Odhran%20O%E2%80%99Donoghue&amp;rft.au=Aleksandar%20Shtedritski&amp;rft.au=John%20Ginger&amp;rft.au=Ralph%20Abboud&amp;rft.au=Ali%20Ghareeb&amp;rft.au=Samuel%20Rodriques&amp;rft.date=2023&amp;rft.pages=2676%E2%80%932694&amp;rft.spage=2676&amp;rft.epage=2694"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">8.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Shen, Y. <i>et al.</i> Taskbench: Benchmarking large language models for task automation. <i>Advances in Neural Information Processing Systems</i> <b>37</b>, 4540–4574 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Taskbench%3A%20Benchmarking%20large%20language%20models%20for%20task%20automation&amp;rft.jtitle=Advances%20in%20Neural%20Information%20Processing%20Systems&amp;rft.volume=37&amp;rft.aufirst=Yongliang&amp;rft.aulast=Shen&amp;rft.au=Yongliang%20Shen&amp;rft.au=Kaitao%20Song&amp;rft.au=Xu%20Tan&amp;rft.au=Wenqi%20Zhang&amp;rft.au=Kan%20Ren&amp;rft.au=Siyu%20Yuan&amp;rft.au=Weiming%20Lu&amp;rft.au=Dongsheng%20Li&amp;rft.au=Yueting%20Zhuang&amp;rft.date=2024&amp;rft.pages=4540%E2%80%934574&amp;rft.spage=4540&amp;rft.epage=4574"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">9.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Starace, G. <i>et al.</i> PaperBench: Evaluating AI’s Ability to Replicate AI Research. in <i>Forty-second International Conference on Machine Learning</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=PaperBench%3A%20Evaluating%20AI%E2%80%99s%20Ability%20to%20Replicate%20AI%20Research&amp;rft.btitle=Forty-second%20International%20Conference%20on%20Machine%20Learning&amp;rft.aufirst=Giulio&amp;rft.aulast=Starace&amp;rft.au=Giulio%20Starace&amp;rft.au=Oliver%20Jaffe&amp;rft.au=Dane%20Sherburn&amp;rft.au=James%20Aung&amp;rft.au=Jun%20Shern%20Chan&amp;rft.au=Leon%20Maksin&amp;rft.au=Rachel%20Dias&amp;rft.au=Evan%20Mays&amp;rft.au=Benjamin%20Kinsella&amp;rft.au=Wyatt%20Thompson&amp;rft.au=undefined&amp;rft.date=2025"></span>
+</div></body>
+</html>
+
+
 #### Algorithms
 
 ## Level 3: LLMs as Scientists
