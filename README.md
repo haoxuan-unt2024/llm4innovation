@@ -361,6 +361,49 @@ Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw 
 
 #### Benchmarks
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+</head>
+<body>
+<div class="csl-bib-body" style="line-height: 2; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Guo, S. <i>et al.</i> Ideabench: Benchmarking large language models for research idea generation. <i>arXiv preprint arXiv:2411.02429</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ideabench%3A%20Benchmarking%20large%20language%20models%20for%20research%20idea%20generation&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2411.02429&amp;rft.aufirst=Sikun&amp;rft.aulast=Guo&amp;rft.au=Sikun%20Guo&amp;rft.au=Amir%20Hassan%20Shariatmadari&amp;rft.au=Guangzhi%20Xiong&amp;rft.au=Albert%20Huang&amp;rft.au=Eric%20Xie&amp;rft.au=Stefan%20Bekiranov&amp;rft.au=Aidong%20Zhang&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">2.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Liu, H., Huang, S., Hu, J., Zhou, Y. &amp; Tan, C. Hypobench: Towards systematic and principled benchmarking for hypothesis generation. <i>arXiv preprint arXiv:2504.11524</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hypobench%3A%20Towards%20systematic%20and%20principled%20benchmarking%20for%20hypothesis%20generation&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2504.11524&amp;rft.aufirst=Haokun&amp;rft.aulast=Liu&amp;rft.au=Haokun%20Liu&amp;rft.au=Sicong%20Huang&amp;rft.au=Jingyu%20Hu&amp;rft.au=Yangqiaoyu%20Zhou&amp;rft.au=Chenhao%20Tan&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">3.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Liu, Y. <i>et al.</i> ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition. <i>CoRR</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=ResearchBench%3A%20Benchmarking%20LLMs%20in%20Scientific%20Discovery%20via%20Inspiration-Based%20Task%20Decomposition&amp;rft.jtitle=CoRR&amp;rft.aufirst=Yujie&amp;rft.aulast=Liu&amp;rft.au=Yujie%20Liu&amp;rft.au=Zonglin%20Yang&amp;rft.au=Tong%20Xie&amp;rft.au=Jinjie%20Ni&amp;rft.au=Ben%20Gao&amp;rft.au=Yuqiang%20Li&amp;rft.au=Shixiang%20Tang&amp;rft.au=Wanli%20Ouyang&amp;rft.au=Erik%20Cambria&amp;rft.au=Dongzhan%20Zhou&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">4.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Qi, B. <i>et al.</i> Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation. in <i>First Conference on Language Modeling</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Large%20Language%20Models%20as%20Biomedical%20Hypothesis%20Generators%3A%20A%20Comprehensive%20Evaluation&amp;rft.btitle=First%20Conference%20on%20Language%20Modeling&amp;rft.aufirst=Biqing&amp;rft.aulast=Qi&amp;rft.au=Biqing%20Qi&amp;rft.au=Kaiyan%20Zhang&amp;rft.au=Kai%20Tian&amp;rft.au=Haoxiang%20Li&amp;rft.au=Zhang-Ren%20Chen&amp;rft.au=Sihang%20Zeng&amp;rft.au=Ermo%20Hua&amp;rft.au=Hu%20Jinfang&amp;rft.au=Bowen%20Zhou&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">5.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Ruan, K., Wang, X., Hong, J. &amp; Sun, H. LiveIdeaBench: Evaluating LLMs’ Scientific Creativity and Idea Generation with Minimal Context. <i>ArXiv</i> <b>abs/2412.17596</b>, (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=LiveIdeaBench%3A%20Evaluating%20LLMs'%20Scientific%20Creativity%20and%20Idea%20Generation%20with%20Minimal%20Context&amp;rft.jtitle=ArXiv&amp;rft.volume=abs%2F2412.17596&amp;rft.aufirst=Kai&amp;rft.aulast=Ruan&amp;rft.au=Kai%20Ruan&amp;rft.au=Xuan%20Wang&amp;rft.au=Jixiang%20Hong&amp;rft.au=Hao%20Sun&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">6.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Wang, Q., Downey, D., Ji, H. &amp; Hope, T. Scimon: Scientific inspiration machines optimized for novelty. in <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</i> 279–299 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Scimon%3A%20Scientific%20inspiration%20machines%20optimized%20for%20novelty&amp;rft.btitle=Proceedings%20of%20the%2062nd%20Annual%20Meeting%20of%20the%20Association%20for%20Computational%20Linguistics%20(Volume%201%3A%20Long%20Papers)&amp;rft.aufirst=Qingyun&amp;rft.aulast=Wang&amp;rft.au=Qingyun%20Wang&amp;rft.au=Doug%20Downey&amp;rft.au=Heng%20Ji&amp;rft.au=Tom%20Hope&amp;rft.date=2024&amp;rft.pages=279%E2%80%93299&amp;rft.spage=279&amp;rft.epage=299"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">7.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Yang, Z. <i>et al.</i> Large Language Models for Automated Open-domain Scientific Hypotheses Discovery. in <i>Findings of the Association for Computational Linguistics ACL 2024</i> 13545–13565 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Large%20Language%20Models%20for%20Automated%20Open-domain%20Scientific%20Hypotheses%20Discovery&amp;rft.btitle=Findings%20of%20the%20Association%20for%20Computational%20Linguistics%20ACL%202024&amp;rft.aufirst=Zonglin&amp;rft.aulast=Yang&amp;rft.au=Zonglin%20Yang&amp;rft.au=Xinya%20Du&amp;rft.au=Junxian%20Li&amp;rft.au=Jie%20Zheng&amp;rft.au=Soujanya%20Poria&amp;rft.au=Erik%20Cambria&amp;rft.date=2024&amp;rft.pages=13545%E2%80%9313565&amp;rft.spage=13545&amp;rft.epage=13565"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">8.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Yang, Z. <i>et al.</i> MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses. <i>arXiv preprint arXiv:2410.07076</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=MOOSE-Chem%3A%20Large%20Language%20Models%20for%20Rediscovering%20Unseen%20Chemistry%20Scientific%20Hypotheses&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2410.07076&amp;rft.aufirst=Zonglin&amp;rft.aulast=Yang&amp;rft.au=Zonglin%20Yang&amp;rft.au=Wanhao%20Liu&amp;rft.au=Ben%20Gao&amp;rft.au=Tong%20Xie&amp;rft.au=Yuqiang%20Li&amp;rft.au=Wanli%20Ouyang&amp;rft.au=Soujanya%20Poria&amp;rft.au=Erik%20Cambria&amp;rft.au=Dongzhan%20Zhou&amp;rft.date=2024"></span>
+</div></body>
+</html>
+
 
 
 #### Algorithms
