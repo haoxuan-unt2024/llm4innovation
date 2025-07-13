@@ -8,7 +8,7 @@ Figure 3. The pyramidal framework of large language models' roles in scientific 
 
 ## Contents
 
-*   [Level 1: LLMs as Evaluators](#level-1)
+*   [Level 1: LLMs as Evaluators](#level-1-LLMs-as-Evaluators)
     *   [Scientific Knowledge Synthesis](#sks)
     *   [Scientific Literature Quality Assessment](#slqa)
 *   [Level 2: LLMs as Collaborators](#level-2)
