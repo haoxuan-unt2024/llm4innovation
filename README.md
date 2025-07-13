@@ -44,7 +44,22 @@ Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw 
 ### Hypothesis Generation
 
 #### Benchmarks
-
+@inproceedings{zhang_scier_2024,
+	title = {{SciER}: {An} {Entity} and {Relation} {Extraction} {Dataset} for {Datasets}, {Methods}, and {Tasks} in {Scientific} {Documents}},
+	shorttitle = {{SciER}},
+	url = {https://aclanthology.org/2024.emnlp-main.726},
+	urldate = {2024-11-19},
+	booktitle = {Proceedings of the 2024 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing}, {EMNLP} 2024, {Miami}, {FL}, {USA}, {November} 12-16, 2024},
+	publisher = {Association for Computational Linguistics},
+	author = {Zhang, Qi and Chen, Zhijia and Pan, Huitong and Caragea, Cornelia and Latecki, Longin Jan and Dragut, Eduard},
+	editor = {Al-Onaizan, Yaser and Bansal, Mohit and Chen, Yun-Nung},
+	year = {2024},
+	note = {0 citations (Semantic Scholar/arXiv) [2024-11-19]
+arXiv:2410.21155},
+	keywords = {/unread},
+	pages = {13083--13100},
+	file = {Full Text PDF:/Users/zhanghaoxuan/Zotero/storage/HG8JPESD/Zhang et al. - 2024 - SciER An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Docu.pdf:application/pdf;Snapshot:/Users/zhanghaoxuan/Zotero/storage/JKLKRWZF/2410.html:text/html},
+}
 #### Algorithms
 
 ### Experimental Assistant
