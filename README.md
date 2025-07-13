@@ -32,7 +32,6 @@ Figure 5: Closed-loop workflow of LLMs as Evaluators. Multimodal embeddings unde
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
 </head>
 <body>
 <div class="csl-bib-body" style="line-height: 2; ">
