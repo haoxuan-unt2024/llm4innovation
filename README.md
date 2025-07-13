@@ -38,6 +38,9 @@ Figure 5: Closed-loop workflow of LLMs as Evaluators. Multimodal embeddings unde
 
 ## Level 2: LLMs as Collaborators
 
+<img width="563" height="358" alt="Screenshot 2025-07-13 at 2 57 39 PM" src="https://github.com/user-attachments/assets/c32ff8c4-d202-4468-a24e-821ca7b9adb7" />
+
+Figure 6. LLMs as collaborators in scientific innovation. LLMs transforming raw knowledge into actionable hypotheses, designing and optimizing experiments, automating laboratory work, and rigorously analyzing results to drive continuous scientific innovation.
 ### Hypothesis Generation
 
 #### Benchmarks
@@ -51,6 +54,9 @@ Figure 5: Closed-loop workflow of LLMs as Evaluators. Multimodal embeddings unde
 #### Algorithms
 
 ## Level 3: LLMs as Scientists
+
+<img width="587" height="551" alt="Screenshot 2025-07-13 at 2 58 34 PM" src="https://github.com/user-attachments/assets/9553aadc-0015-4dc3-8598-cb732de4a850" />
+Figure 7. Taxonomy of LLMs as Scientists. The upper (blue) panel organizes ASR into three strata—fully autonomous end-to-end pipelines, closed-loop iterative research systems, and human-in-the-loop frameworks—each characterized by a distinct balance of speed, feedback integration, and expert oversight. The lower (yellow) panel groups ASR algorithms into multi-agent LLM laboratories and program-search/symbolic-reasoning approaches, highlighting their use of role-specialized agents, shared memories, external tool chains, and evolutionary routing for hypothesis generation and verification.
 
 ### Autonomous Scientific Research
 
