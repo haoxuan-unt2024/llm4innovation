@@ -709,6 +709,32 @@ Figure 7. Taxonomy of LLMs as Scientists. The upper (blue) panel organizes ASR i
 
 #### Benchmarks
 
+<body>
+<div class="csl-bib-body" style="line-height: 2; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Alber, S. <i>et al.</i> CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data. <i>bioRxiv</i> 2025–06 (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CellVoyager%3A%20AI%20CompBio%20Agent%20Generates%20New%20Insights%20by%20Autonomously%20Analyzing%20Biological%20Data&amp;rft.jtitle=bioRxiv&amp;rft.aufirst=Samuel&amp;rft.aulast=Alber&amp;rft.au=Samuel%20Alber&amp;rft.au=Bowen%20Chen&amp;rft.au=Eric%20Sun&amp;rft.au=Alina%20Isakova&amp;rft.au=Aaron%20James%20Wilk&amp;rft.au=James%20Zou&amp;rft.date=2025&amp;rft.pages=2025%E2%80%9306&amp;rft.spage=2025&amp;rft.epage=06"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">2.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Majumder, B. P. <i>et al.</i> Discoverybench: Towards data-driven discovery with large language models. <i>arXiv preprint arXiv:2407.01725</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Discoverybench%3A%20Towards%20data-driven%20discovery%20with%20large%20language%20models&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2407.01725&amp;rft.aufirst=Bodhisattwa%20Prasad&amp;rft.aulast=Majumder&amp;rft.au=Bodhisattwa%20Prasad%20Majumder&amp;rft.au=Harshit%20Surana&amp;rft.au=Dhruv%20Agarwal&amp;rft.au=Bhavana%20Dalvi%20Mishra&amp;rft.au=Abhijeetsingh%20Meena&amp;rft.au=Aryan%20Prakhar&amp;rft.au=Tirth%20Vora&amp;rft.au=Tushar%20Khot&amp;rft.au=Ashish%20Sabharwal&amp;rft.au=Peter%20Clark&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">3.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Luo, X. <i>et al.</i> Large language models surpass human experts in predicting neuroscience results. <i>Nature human behaviour</i> 1–11 (2024) doi:<a href="https://doi.org/10.1038/s41562-024-02046-9">10.1038/s41562-024-02046-9</a>.</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41562-024-02046-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Large%20language%20models%20surpass%20human%20experts%20in%20predicting%20neuroscience%20results&amp;rft.jtitle=Nature%20human%20behaviour&amp;rft.aufirst=Xiaoliang&amp;rft.aulast=Luo&amp;rft.au=Xiaoliang%20Luo&amp;rft.au=Akilles%20Rechardt&amp;rft.au=Guangzhi%20Sun&amp;rft.au=Kevin%20K%20Nejad&amp;rft.au=Felipe%20Y%C3%A1%C3%B1ez&amp;rft.au=Bati%20Yilmaz&amp;rft.au=Kangjoo%20Lee&amp;rft.au=Alexandra%20O%20Cohen&amp;rft.au=Valentina%20Borghesani&amp;rft.au=Anton%20Pashkov&amp;rft.au=undefined&amp;rft.date=2024&amp;rft.pages=1%E2%80%9311&amp;rft.spage=1&amp;rft.epage=11"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">4.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Jansen, P. <i>et al.</i> DISCOVERYWORLD: A virtual environment for developing and evaluating automated scientific discovery agents. <i>Advances in Neural Information Processing Systems</i> <b>37</b>, 10088–10116 (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=DISCOVERYWORLD%3A%20A%20virtual%20environment%20for%20developing%20and%20evaluating%20automated%20scientific%20discovery%20agents&amp;rft.jtitle=Advances%20in%20Neural%20Information%20Processing%20Systems&amp;rft.volume=37&amp;rft.aufirst=Peter&amp;rft.aulast=Jansen&amp;rft.au=Peter%20Jansen&amp;rft.au=Marc-Alexandre%20C%C3%B4t%C3%A9&amp;rft.au=Tushar%20Khot&amp;rft.au=Erin%20Bransom&amp;rft.au=Bhavana%20Dalvi%20Mishra&amp;rft.au=Bodhisattwa%20Prasad%20Majumder&amp;rft.au=Oyvind%20Tafjord&amp;rft.au=Peter%20Clark&amp;rft.date=2024&amp;rft.pages=10088%E2%80%9310116&amp;rft.spage=10088&amp;rft.epage=10116"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">5.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Chen, Z. <i>et al.</i> ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery. in <i>The Thirteenth International Conference on Learning Representations</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=ScienceAgentBench%3A%20Toward%20Rigorous%20Assessment%20of%20Language%20Agents%20for%20Data-Driven%20Scientific%20Discovery&amp;rft.btitle=The%20Thirteenth%20International%20Conference%20on%20Learning%20Representations&amp;rft.aufirst=Ziru&amp;rft.aulast=Chen&amp;rft.au=Ziru%20Chen&amp;rft.au=Shijie%20Chen&amp;rft.au=Yuting%20Ning&amp;rft.au=Qianheng%20Zhang&amp;rft.au=Boshi%20Wang&amp;rft.au=Botao%20Yu&amp;rft.au=Yifei%20Li&amp;rft.au=Zeyi%20Liao&amp;rft.au=Chen%20Wei&amp;rft.au=Zitong%20Lu&amp;rft.au=Vishal%20Dey&amp;rft.au=Mingyi%20Xue&amp;rft.au=Frazier%20N.%20Baker&amp;rft.au=Benjamin%20Burns&amp;rft.au=Daniel%20Adu-Ampratwum&amp;rft.au=Xuhui%20Huang&amp;rft.au=Xia%20Ning&amp;rft.au=Song%20Gao&amp;rft.au=Yu%20Su&amp;rft.au=Huan%20Sun&amp;rft.date=2025"></span>
+</div></body>
+</html>
+
+
 #### Algorithms
 
 
