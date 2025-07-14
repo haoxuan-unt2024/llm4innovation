@@ -705,6 +705,65 @@ Figure 7. Taxonomy of LLMs as Scientists. The upper (blue) panel organizes ASR i
 
 #### Algorithms
 
+<body>
+<div class="csl-bib-body" style="line-height: 2; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Tang, J., Xia, L., Li, Z. &amp; Huang, C. AI-Researcher: Autonomous Scientific Innovation. <i>arXiv preprint arXiv:2505.18705</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=AI-Researcher%3A%20Autonomous%20Scientific%20Innovation&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2505.18705&amp;rft.aufirst=Jiabin&amp;rft.aulast=Tang&amp;rft.au=Jiabin%20Tang&amp;rft.au=Lianghao%20Xia&amp;rft.au=Zhonghang%20Li&amp;rft.au=Chao%20Huang&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">2.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Intology. Zochi Technical Report. <i>arXiv</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Zochi%20Technical%20Report&amp;rft.jtitle=arXiv&amp;rft.au=undefined&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">3.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Yuan, J. <i>et al.</i> Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback. <i>arXiv preprint arXiv:2501.03916</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dolphin%3A%20Closed-loop%20Open-ended%20Auto-research%20through%20Thinking%2C%20Practice%2C%20and%20Feedback&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2501.03916&amp;rft.aufirst=Jiakang&amp;rft.aulast=Yuan&amp;rft.au=Jiakang%20Yuan&amp;rft.au=Xiangchao%20Yan&amp;rft.au=Botian%20Shi&amp;rft.au=Tao%20Chen&amp;rft.au=Wanli%20Ouyang&amp;rft.au=Bo%20Zhang&amp;rft.au=Lei%20Bai&amp;rft.au=Yu%20Qiao&amp;rft.au=Bowen%20Zhou&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">4.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Yamada, Y. <i>et al.</i> The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search. <i>arXiv preprint arXiv:2504.08066</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20ai%20scientist-v2%3A%20Workshop-level%20automated%20scientific%20discovery%20via%20agentic%20tree%20search&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2504.08066&amp;rft.aufirst=Yutaro&amp;rft.aulast=Yamada&amp;rft.au=Yutaro%20Yamada&amp;rft.au=Robert%20Tjarko%20Lange&amp;rft.au=Cong%20Lu&amp;rft.au=Shengran%20Hu&amp;rft.au=Chris%20Lu&amp;rft.au=Jakob%20Foerster&amp;rft.au=Jeff%20Clune&amp;rft.au=David%20Ha&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">5.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Weng, Y. <i>et al.</i> CycleResearcher: Improving Automated Research via Automated Review. in <i>The Thirteenth International Conference on Learning Representations</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=CycleResearcher%3A%20Improving%20Automated%20Research%20via%20Automated%20Review&amp;rft.btitle=The%20Thirteenth%20International%20Conference%20on%20Learning%20Representations&amp;rft.aufirst=Yixuan&amp;rft.aulast=Weng&amp;rft.au=Yixuan%20Weng&amp;rft.au=Minjun%20Zhu&amp;rft.au=Guangsheng%20Bao&amp;rft.au=Hongbo%20Zhang&amp;rft.au=Jindong%20Wang&amp;rft.au=Yue%20Zhang&amp;rft.au=Linyi%20Yang&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">6.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Team, N. <i>et al.</i> NovelSeek: When Agent Becomes the Scientist–Building Closed-Loop System from Hypothesis to Verification. <i>arXiv preprint arXiv:2505.16938</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=NovelSeek%3A%20When%20Agent%20Becomes%20the%20Scientist%E2%80%93Building%20Closed-Loop%20System%20from%20Hypothesis%20to%20Verification&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2505.16938&amp;rft.aufirst=NovelSeek&amp;rft.aulast=Team&amp;rft.au=NovelSeek%20Team&amp;rft.au=Bo%20Zhang&amp;rft.au=Shiyang%20Feng&amp;rft.au=Xiangchao%20Yan&amp;rft.au=Jiakang%20Yuan&amp;rft.au=Zhiyin%20Yu&amp;rft.au=Xiaohan%20He&amp;rft.au=Songtao%20Huang&amp;rft.au=Shaowei%20Hou&amp;rft.au=Zheng%20Nie&amp;rft.au=undefined&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">7.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Schmidgall, S. <i>et al.</i> Agent laboratory: Using llm agents as research assistants. <i>arXiv preprint arXiv:2501.04227</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Agent%20laboratory%3A%20Using%20llm%20agents%20as%20research%20assistants&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2501.04227&amp;rft.aufirst=Samuel&amp;rft.aulast=Schmidgall&amp;rft.au=Samuel%20Schmidgall&amp;rft.au=Yusheng%20Su&amp;rft.au=Ze%20Wang&amp;rft.au=Ximeng%20Sun&amp;rft.au=Jialian%20Wu&amp;rft.au=Xiaodong%20Yu&amp;rft.au=Jiang%20Liu&amp;rft.au=Zicheng%20Liu&amp;rft.au=Emad%20Barsoum&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">8.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Schmidgall, S. &amp; Moor, M. Agentrxiv: Towards collaborative autonomous research. <i>arXiv preprint arXiv:2503.18102</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Agentrxiv%3A%20Towards%20collaborative%20autonomous%20research&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2503.18102&amp;rft.aufirst=Samuel&amp;rft.aulast=Schmidgall&amp;rft.au=Samuel%20Schmidgall&amp;rft.au=Michael%20Moor&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">9.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Luo, Y. <i>et al.</i> From intention to implementation: Automating biomedical research via llms. <i>arXiv preprint arXiv:2412.09429</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=From%20intention%20to%20implementation%3A%20Automating%20biomedical%20research%20via%20llms&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2412.09429&amp;rft.aufirst=Yi&amp;rft.aulast=Luo&amp;rft.au=Yi%20Luo&amp;rft.au=Linghang%20Shi&amp;rft.au=Yihao%20Li&amp;rft.au=Aobo%20Zhuang&amp;rft.au=Yeyun%20Gong&amp;rft.au=Ling%20Liu&amp;rft.au=Lin%20Chen&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">10.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Lu, C. <i>et al.</i> The ai scientist: Towards fully automated open-ended scientific discovery. <i>arXiv preprint arXiv:2408.06292</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20ai%20scientist%3A%20Towards%20fully%20automated%20open-ended%20scientific%20discovery&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2408.06292&amp;rft.aufirst=Chris&amp;rft.aulast=Lu&amp;rft.au=Chris%20Lu&amp;rft.au=Cong%20Lu&amp;rft.au=Robert%20Tjarko%20Lange&amp;rft.au=Jakob%20Foerster&amp;rft.au=Jeff%20Clune&amp;rft.au=David%20Ha&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">11.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Li, R., Patel, T., Wang, Q. &amp; Du, X. Mlr-copilot: Autonomous machine learning research based on large language models agents. <i>arXiv preprint arXiv:2408.14033</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mlr-copilot%3A%20Autonomous%20machine%20learning%20research%20based%20on%20large%20language%20models%20agents&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2408.14033&amp;rft.aufirst=Ruochen&amp;rft.aulast=Li&amp;rft.au=Ruochen%20Li&amp;rft.au=Teerth%20Patel&amp;rft.au=Qingyun%20Wang&amp;rft.au=Xinya%20Du&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">12.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Jansen, P. <i>et al.</i> CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation. <i>arXiv preprint arXiv:2503.22708</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CodeScientist%3A%20End-to-End%20Semi-Automated%20Scientific%20Discovery%20with%20Code-based%20Experimentation&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2503.22708&amp;rft.aufirst=Peter&amp;rft.aulast=Jansen&amp;rft.au=Peter%20Jansen&amp;rft.au=Oyvind%20Tafjord&amp;rft.au=Marissa%20Radensky&amp;rft.au=Pao%20Siangliulue&amp;rft.au=Tom%20Hope&amp;rft.au=Bhavana%20Dalvi%20Mishra&amp;rft.au=Bodhisattwa%20Prasad%20Majumder&amp;rft.au=Daniel%20S%20Weld&amp;rft.au=Peter%20Clark&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">13.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Ifargan, T., Hafner, L., Kern, M., Alcalay, O. &amp; Kishony, R. Autonomous LLM-Driven Research—from Data to Human-Verifiable Research Papers. <i>NEJM AI</i> <b>2</b>, AIoa2400555 (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1056%2FAIoa2400555&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Autonomous%20LLM-Driven%20Research%E2%80%94from%20Data%20to%20Human-Verifiable%20Research%20Papers&amp;rft.jtitle=NEJM%20AI&amp;rft.volume=2&amp;rft.issue=1&amp;rft.aufirst=Tal&amp;rft.aulast=Ifargan&amp;rft.au=Tal%20Ifargan&amp;rft.au=Lukas%20Hafner&amp;rft.au=Maor%20Kern&amp;rft.au=Ori%20Alcalay&amp;rft.au=Roy%20Kishony&amp;rft.date=2025&amp;rft.pages=AIoa2400555"></span>
+</div></body>
+</html>
+
+
+
 ### Autonomous Scientific Discovery
 
 #### Benchmarks
