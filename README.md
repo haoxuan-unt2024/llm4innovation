@@ -676,6 +676,33 @@ Figure 7. Taxonomy of LLMs as Scientists. The upper (blue) panel organizes ASR i
 
 #### Benchmarks
 
+
+<body>
+<div class="csl-bib-body" style="line-height: 2; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">1.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Tang, J., Xia, L., Li, Z. &amp; Huang, C. AI-Researcher: Autonomous Scientific Innovation. <i>arXiv preprint arXiv:2505.18705</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=AI-Researcher%3A%20Autonomous%20Scientific%20Innovation&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2505.18705&amp;rft.aufirst=Jiabin&amp;rft.aulast=Tang&amp;rft.au=Jiabin%20Tang&amp;rft.au=Lianghao%20Xia&amp;rft.au=Zhonghang%20Li&amp;rft.au=Chao%20Huang&amp;rft.date=2025"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">2.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Song, X. <i>et al.</i> CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery. in <i>The Thirteenth International Conference on Learning Representations</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=CS-Bench%3A%20A%20Comprehensive%20Benchmark%20for%20Large%20Language%20Models%20towards%20Computer%20Science%20Mastery&amp;rft.btitle=The%20Thirteenth%20International%20Conference%20on%20Learning%20Representations&amp;rft.aufirst=Xiaoshuai&amp;rft.aulast=Song&amp;rft.au=Xiaoshuai%20Song&amp;rft.au=Muxi%20Diao&amp;rft.au=Guanting%20Dong&amp;rft.au=Zhengyang%20Wang&amp;rft.au=Yujia%20Fu&amp;rft.au=Runqi%20Qiao&amp;rft.au=Zhexu%20Wang&amp;rft.au=Dayuan%20Fu&amp;rft.au=Huangxuan%20Wu&amp;rft.au=Bin%20Liang&amp;rft.au=undefined&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">3.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Lou, R. <i>et al.</i> AAAR-1.0: Assessing AI’s Potential to Assist Research. in <i>2nd AI4Research Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=AAAR-1.0%3A%20Assessing%20AI's%20Potential%20to%20Assist%20Research&amp;rft.btitle=2nd%20AI4Research%20Workshop%3A%20Towards%20a%20Knowledge-grounded%20Scientific%20Research%20Lifecycle&amp;rft.aufirst=Renze&amp;rft.aulast=Lou&amp;rft.au=Renze%20Lou&amp;rft.au=Hanzi%20Xu&amp;rft.au=Sijia%20Wang&amp;rft.au=Jiangshu%20Du&amp;rft.au=Ryo%20Kamoi&amp;rft.au=Xiaoxin%20Lu&amp;rft.au=Jian%20Xie&amp;rft.au=Yuxuan%20Sun&amp;rft.au=Yusen%20Zhang&amp;rft.au=Jihyun%20Janice%20Ahn&amp;rft.au=undefined&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">4.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Laurent, J. M. <i>et al.</i> Lab-bench: Measuring capabilities of language models for biology research. <i>arXiv preprint arXiv:2407.10362</i> (2024).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lab-bench%3A%20Measuring%20capabilities%20of%20language%20models%20for%20biology%20research&amp;rft.jtitle=arXiv%20preprint%20arXiv%3A2407.10362&amp;rft.aufirst=Jon%20M&amp;rft.aulast=Laurent&amp;rft.au=Jon%20M%20Laurent&amp;rft.au=Joseph%20D%20Janizek&amp;rft.au=Michael%20Ruzo&amp;rft.au=Michaela%20M%20Hinks&amp;rft.au=Michael%20J%20Hammerling&amp;rft.au=Siddharth%20Narayanan&amp;rft.au=Manvitha%20Ponnapati&amp;rft.au=Andrew%20D%20White&amp;rft.au=Samuel%20G%20Rodriques&amp;rft.date=2024"></span>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">5.</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Jing, L. <i>et al.</i> DSBench: How Far Are Data Science Agents from Becoming Data Science Experts? in <i>The Thirteenth International Conference on Learning Representations</i> (2025).</div>
+  </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=DSBench%3A%20How%20Far%20Are%20Data%20Science%20Agents%20from%20Becoming%20Data%20Science%20Experts%3F&amp;rft.btitle=The%20Thirteenth%20International%20Conference%20on%20Learning%20Representations&amp;rft.aufirst=Liqiang&amp;rft.aulast=Jing&amp;rft.au=Liqiang%20Jing&amp;rft.au=Zhehui%20Huang&amp;rft.au=Xiaoyang%20Wang&amp;rft.au=Wenlin%20Yao&amp;rft.au=Wenhao%20Yu&amp;rft.au=Kaixin%20Ma&amp;rft.au=Hongming%20Zhang&amp;rft.au=Xinya%20Du&amp;rft.au=Dong%20Yu&amp;rft.date=2025"></span>
+</div></body>
+</html>
+
+
 #### Algorithms
 
 ### Autonomous Scientific Discovery
