@@ -843,3 +843,7 @@ Figure 7. Taxonomy of LLMs as Scientists. The upper (blue) panel organizes ASR i
 </html>
 
 
+## Citation
+
+Please cite our paper if you found our survey helpful:
+```bibtex
