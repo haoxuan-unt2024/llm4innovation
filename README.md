@@ -853,3 +853,13 @@ Figure 7. Taxonomy of LLMs as Scientists. The upper (blue) panel organizes ASR i
 
 Please cite our paper if you found our survey helpful:
 ```bibtex
+
+@misc{zhang2025evolvingrolelargelanguage,
+      title={The Evolving Role of Large Language Models in Scientific Innovation: Evaluator, Collaborator, and Scientist}, 
+      author={Haoxuan Zhang and Ruochi Li and Yang Zhang and Ting Xiao and Jiangping Chen and Junhua Ding and Haihua Chen},
+      year={2025},
+      eprint={2507.11810},
+      archivePrefix={arXiv},
+      primaryClass={cs.DL},
+      url={https://arxiv.org/abs/2507.11810}, 
+}
